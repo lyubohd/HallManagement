@@ -1,4 +1,5 @@
 com\univerity\hallmanagement\repository\UserRepository.class
 com\univerity\hallmanagement\controller\UserController.class
 com\univerity\hallmanagement\entity\User.class
+com\univerity\hallmanagement\config\WebSecurityConfig.class
 com\univerity\hallmanagement\HallManagementApplication.class

@@ -1,4 +1,5 @@
-D:\hall-management\backend\src\main\java\com\univerity\hallmanagement\controller\UserController.java
-D:\hall-management\backend\src\main\java\com\univerity\hallmanagement\entity\User.java
-D:\hall-management\backend\src\main\java\com\univerity\hallmanagement\HallManagementApplication.java
-D:\hall-management\backend\src\main\java\com\univerity\hallmanagement\repository\UserRepository.java
+D:\HallManagement\backend\src\main\java\com\univerity\hallmanagement\config\WebSecurityConfig.java
+D:\HallManagement\backend\src\main\java\com\univerity\hallmanagement\controller\UserController.java
+D:\HallManagement\backend\src\main\java\com\univerity\hallmanagement\entity\User.java
+D:\HallManagement\backend\src\main\java\com\univerity\hallmanagement\HallManagementApplication.java
+D:\HallManagement\backend\src\main\java\com\univerity\hallmanagement\repository\UserRepository.java
